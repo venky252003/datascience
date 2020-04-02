@@ -1,0 +1,20 @@
+{
+    "Message": "match found", 
+    "Status Code": "200", 
+    "bit_rate": "128.0", 
+    "channels": "2", 
+    "client": "ADC", 
+    "confidence": "0.9502377957105637", 
+    "duration": "79.504", 
+    "english_translation": "Do you think women's life is stressful? In China, the pressure of the father and daughter's group is still very high. Why? First of all, he not only has to work, but also has children. After having children, he has to take care of his family It may be said that it is difficult to balance. Do you think that men and women are equal in China right now? Ca n\u2019t you say true equality can only be said to change and improve, then what aspects are still not equal? Would you choose a man to do the housework? Now it \u2019s more and more common for men and women to work together with their son and daughter.", 
+    "file_name": "Chinese", 
+    "file_path": "C:\\Users\\ysaik003\\Documents\\Work\\speech_to_text\\Abbott_IVR\\ADCPOC\\temp_audios\\Chinese.mp3", 
+    "file_size": "1272363", 
+    "file_type": "mp3", 
+    "id": 1, 
+    "language": "zh", 
+    "offset": "171", 
+    "sample_rate": "48000", 
+    "transcription": "\u4f60\u89c9\u5f97\u5987\u5973\u7684\u751f\u6d3b\u538b\u529b\u5927\u5417\u5728\u4e2d\u56fd\u7684\u8bdd\u7236\u5973\u8fd9\u4e2a\u7fa4\u4f53\u7684\u751f\u6d3b\u538b\u529b\u6211\u4e2a\u4eba\u89c9\u5f97\u8fd8\u662f\u633a\u5927\u7684\u4e3a\u4ec0\u4e48\u9996\u5148\u7684\u8bdd\u4ed6\u4e0d\u4ec5\u8981\u5de5\u4f5c\u8fd8\u8981\u751f\u5b69\u5b50\u751f\u5b8c\u5b69\u5b50\u4e4b\u540e\u5c31\u5f97\u7167\u987e\u5bb6\u5ead\u6240\u4ee5\u751f\u6d3b\u548c\u5de5\u4f5c\u8fd9\u4e24\u65b9\u9762\u53ef\u80fd\u8bf4\u5f88\u96be\u53bb\u5e73\u8861 \u4f60\u89c9\u5f97\u73b0\u5728\u5728\u4e2d\u56fd\u7537\u5973\u5e73\u7b49\u5417 \u4e0d\u80fd\u8bf4\u771f\u6b63\u7684\u5e73\u7b49\u53ea\u80fd\u8bf4\u518d\u6539\u6539\u5584\u90a3\u4ec0\u4e48\u65b9\u9762\u8fd8\u662f\u4e0d\u592a\u5e73\u7b49\u5462\u90a3\u4e2a\u8bf4\u76f8\u540c\u4e00\u4efd\u5de5\u4f5c\u5982\u679c\u8bf4\u7537\u5973\u7684\u80fd\u529b\u4e5f\u76f8\u5f53\u7684\u8bdd\u5b83\u80af\u5b9a\u4f1a\u9009\u62e9\u7537\u58eb \u505a\u5bb6\u52a1\u90a3\u505a\u5bb6\u52a1\u7684\u8bdd\u73b0\u5728\u8d8a\u6765\u8d8a\u5e38\u89c1\u7684\u662f\u7537\u5973\u4e00\u8d77\u516c\u5b50\u4e00\u8d77\u5408\u4f5c\u5427\u7b97\u6bd4\u8f83\u5e73\u5e73\u7b49\u4e86\u5bb6\u52a1\u8fd9\u65b9\u9762\u7684\u8bdd\u6211\u89c9\u5f97\u8fd8\u662f\u5728\u6162\u6162\u6539\u5584\u7684"
+  }
+  
