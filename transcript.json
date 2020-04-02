@@ -1,0 +1,19 @@
+{
+    "Message": "Audio transcribe successful", 
+    "Status Code": "200", 
+    "bit_rate": 80.0, 
+    "channels": 1, 
+    "client": "ADC", 
+    "confidence": 0.9489266872406006, 
+    "duration": 23.159971247304437, 
+    "english_translation": "highest polygon I'm very excited I went and got my new iPhone today with the new software to very very good phone everyone should get one I love it it does many wonderful things it allows me to do my email on my web browsing it's a phone very very neat talk to you soon bye", 
+    "file_name": "english2", 
+    "file_path": "https://storage.cloud.google.com/abbott-ivr-audios/english2.mp3", 
+    "file_size": 233828, 
+    "file_type": "mp3", 
+    "language": "en-US", 
+    "offset": 2122, 
+    "sample_rate": 44100, 
+    "transcription": "highest polygon I'm very excited I went and got my new iPhone today with the new software to very very good phone everyone should get one I love it it does many wonderful things it allows me to do my email on my web browsing it's a phone very very neat talk to you soon bye"
+  }
+  
