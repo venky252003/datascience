@@ -1,0 +1,40 @@
+{
+    "Message": "",
+    "Status Code": "200",
+    "data": [
+        {
+            "bit_rate": "128.0",
+            "channels": "2",
+            "client": "ADC",
+            "confidence": "0.9502377957105637",
+            "duration": "79.504",
+            "english_translation": "Do you think women's life is stressful? In China, the pressure of the father and daughter's group is still very high. Why? First of all, he not only has to work, but also has children. After having children, he has to take care of his family It may be said that it is difficult to balance. Do you think that men and women are equal in China right now? Ca n’t you say true equality can only be said to change and improve, then what aspects are still not equal? Would you choose a man to do the housework? Now it ’s more and more common for men and women to work together with their son and daughter.",
+            "file_name": "Chinese",
+            "file_path": "C:\\Users\\ysaik003\\Documents\\Work\\speech_to_text\\Abbott_IVR\\ADCPOC\\temp_audios\\Chinese.mp3",
+            "file_size": "1272363",
+            "file_type": "mp3",
+            "id": 1,
+            "language": "zh",
+            "offset": "171",
+            "sample_rate": "48000",
+            "transcription": "你觉得妇女的生活压力大吗在中国的话父女这个群体的生活压力我个人觉得还是挺大的为什么首先的话他不仅要工作还要生孩子生完孩子之后就得照顾家庭所以生活和工作这两方面可能说很难去平衡 你觉得现在在中国男女平等吗 不能说真正的平等只能说再改改善那什么方面还是不太平等呢那个说相同一份工作如果说男女的能力也相当的话它肯定会选择男士 做家务那做家务的话现在越来越常见的是男女一起公子一起合作吧算比较平平等了家务这方面的话我觉得还是在慢慢改善的"
+        },
+        {
+            "bit_rate": "80.0",
+            "channels": "1",
+            "client": "ADC",
+            "confidence": "0.9582217931747437",
+            "duration": "71.72612432415539",
+            "english_translation": "so because I have a very large family with a lot of kids everyone has  their own chores everyday  so everyone needs to clean their own rooms  when they come back from school and we all need to make our own beds  when we wake up in the morning  and then in order to help my mother clean the house we are all responsible with our own particular chores my little brother always washes the dishes after dinner  my little sister puts the dishes out before dinner  and my other little sister does the sweeping  she sweeps the living room and the dining room every day after dinner because there are always so many crumbs on the floor",
+            "file_name": "english",
+            "file_path": "https://storage.cloud.google.com/abbott-ivr-audios/english.mp3",
+            "file_size": "719444",
+            "file_type": "mp3",
+            "id": 2,
+            "language": "en-US",
+            "offset": "2122",
+            "sample_rate": "44100",
+            "transcription": "so because I have a very large family with a lot of kids everyone has  their own chores everyday  so everyone needs to clean their own rooms  when they come back from school and we all need to make our own beds  when we wake up in the morning  and then in order to help my mother clean the house we are all responsible with our own particular chores my little brother always washes the dishes after dinner  my little sister puts the dishes out before dinner  and my other little sister does the sweeping  she sweeps the living room and the dining room every day after dinner because there are always so many crumbs on the floor"
+        }
+    ]
+}
